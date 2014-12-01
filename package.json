@@ -1,0 +1,27 @@
+{
+  "name": "reactify-deps",
+  "version": "0.0.0",
+  "description": "A browserify transformation that generates a React module dependency graph. Designed to run post the reactify transformation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sramam/reactify-deps.git"
+  },
+  "keywords": [
+    "browserify",
+    "reactify",
+    "dependency",
+    "react",
+    "graph",
+    "dot"
+  ],
+  "author": "Shishir Ramam",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/sramam/reactify-deps/issues"
+  },
+  "homepage": "https://github.com/sramam/reactify-deps"
+}
